@@ -22,10 +22,7 @@ a {
     justify-content: center;
     flex-direction: column;
     transition: transform 0.3s ease;
-
-    &:hover {
-        color: #94C11F;
-    }
+    color: #94C11F;
 
     &::after {
         content: '';
